@@ -30,7 +30,8 @@ This repository contains:
 |------|---------|---------|
 | Day 01 | Array Basics, Traversal, Reverse Traversal, Max/Min | ✅ |
 | Day 02 | Insert, Delete, Update, Two Pointers Introduction | ✅ |
-| Day 03 | Linear Search, Frequency Count, Contains Duplicate | ⏳ |
+| Day 03 | Linear Search, Frequency Count, Hashing Foundation | ✅ |
+| Day 04 | Prefix Sum | ⏳ |
 
 ---
 
@@ -55,6 +56,8 @@ This repository contains:
 - ✅ 1920. Build Array from Permutation
 - ✅ 26. Remove Duplicates from Sorted Array
 - ✅ 27. Remove Element
+- ✅ 217. Contains Duplicate
+- ✅ 136. Single Number
 
 ## Medium
 
