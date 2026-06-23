@@ -31,7 +31,8 @@ This repository contains:
 | Day 01 | Array Basics, Traversal, Reverse Traversal, Max/Min | ✅ |
 | Day 02 | Insert, Delete, Update, Two Pointers Introduction | ✅ |
 | Day 03 | Linear Search, Frequency Count, Hashing Foundation | ✅ |
-| Day 04 | Prefix Sum | ⏳ |
+| Day 04 | Prefix Sum, Running Sum, Range Sum Query | ✅ |
+| Day 05 | Sliding Window Introduction | ⏳ |
 
 ---
 
@@ -42,8 +43,8 @@ This repository contains:
 | Array Traversal | ✅ |
 | Reverse Traversal | ✅ |
 | Two Pointers | ✅ |
-| Prefix Sum Foundation | ✅ |
-| Hashing | ⏳ |
+| Prefix Sum | ✅ |
+| Hashing | ✅ |
 | Sliding Window | ⏳ |
 
 ---
@@ -132,6 +133,7 @@ Days Completed:
 Day 01 ✅
 Day 02 ✅
 Day 03 ✅
+Day 04 ✅
 ```
 
 LeetCode Solved:
@@ -143,7 +145,7 @@ LeetCode Solved:
 Current Streak:
 
 ```text
-3 Days
+4 Days
 ```
 
 ---
