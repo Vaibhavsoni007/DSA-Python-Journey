@@ -131,18 +131,19 @@ Days Completed:
 ```text
 Day 01 ✅
 Day 02 ✅
+Day 03 ✅
 ```
 
 LeetCode Solved:
 
 ```text
-4 Problems
+6 Problems
 ```
 
 Current Streak:
 
 ```text
-2 Days
+3 Days
 ```
 
 ---
