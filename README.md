@@ -137,18 +137,19 @@ Day 01 ✅
 Day 02 ✅
 Day 03 ✅
 Day 04 ✅
+Day 05 ✅
 ```
 
 LeetCode Solved:
 
 ```text
-6 Problems
+7 Problems
 ```
 
 Current Streak:
 
 ```text
-4 Days
+5 Days
 ```
 
 ---
