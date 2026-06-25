@@ -32,7 +32,8 @@ This repository contains:
 | Day 02 | Insert, Delete, Update, Two Pointers Introduction | ✅ |
 | Day 03 | Linear Search, Frequency Count, Hashing Foundation | ✅ |
 | Day 04 | Prefix Sum, Running Sum, Range Sum Query | ✅ |
-| Day 05 | Sliding Window Introduction | ⏳ |
+| Day 05 | Sliding Window (Fixed Size), Maximum Sum Subarray | ✅ |
+| Day 06 | Sliding Window (Variable Size) | ⏳ |
 
 ---
 
@@ -45,7 +46,8 @@ This repository contains:
 | Two Pointers | ✅ |
 | Prefix Sum | ✅ |
 | Hashing | ✅ |
-| Sliding Window | ⏳ |
+| Sliding Window (Fixed) | ✅ |
+| Sliding Window (Variable) | ⏳ |
 
 ---
 
@@ -59,6 +61,7 @@ This repository contains:
 - ✅ 27. Remove Element
 - ✅ 217. Contains Duplicate
 - ✅ 136. Single Number
+- ✅ 643. Maximum Average Subarray I
 
 ## Medium
 
