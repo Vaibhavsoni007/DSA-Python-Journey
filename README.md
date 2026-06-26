@@ -29,11 +29,12 @@ This repository contains:
 | Day | Topics | Status |
 |------|---------|---------|
 | Day 01 | Array Basics, Traversal, Reverse Traversal, Max/Min | ✅ |
-| Day 02 | Insert, Delete, Update, Two Pointers Introduction | ✅ |
+| Day 02 | Insert, Delete, Update, Two Pointers | ✅ |
 | Day 03 | Linear Search, Frequency Count, Hashing Foundation | ✅ |
 | Day 04 | Prefix Sum, Running Sum, Range Sum Query | ✅ |
 | Day 05 | Sliding Window (Fixed Size), Maximum Sum Subarray | ✅ |
-| Day 06 | Sliding Window (Variable Size) | ⏳ |
+| Day 06 | Binary Search, Search Insert Position | ✅ |
+| Day 07 | First & Last Position, Binary Search Variations | ⏳ |
 
 ---
 
@@ -47,6 +48,7 @@ This repository contains:
 | Prefix Sum | ✅ |
 | Hashing | ✅ |
 | Sliding Window (Fixed) | ✅ |
+| Binary Search | ✅ |
 | Sliding Window (Variable) | ⏳ |
 
 ---
@@ -55,13 +57,15 @@ This repository contains:
 
 ## Easy
 
-- ✅ 1480. Running Sum of 1D Array
-- ✅ 1920. Build Array from Permutation
 - ✅ 26. Remove Duplicates from Sorted Array
 - ✅ 27. Remove Element
-- ✅ 217. Contains Duplicate
+- ✅ 35. Search Insert Position
 - ✅ 136. Single Number
+- ✅ 217. Contains Duplicate
 - ✅ 643. Maximum Average Subarray I
+- ✅ 704. Binary Search
+- ✅ 1480. Running Sum of 1D Array
+- ✅ 1920. Build Array from Permutation
 
 ## Medium
 
@@ -143,13 +147,13 @@ Day 05 ✅
 LeetCode Solved:
 
 ```text
-7 Problems
+9 Problems
 ```
 
 Current Streak:
 
 ```text
-5 Days
+6 Days
 ```
 
 ---
