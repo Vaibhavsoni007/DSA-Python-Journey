@@ -1,3 +1,8 @@
+# Binary Search Implementation
+# This script demonstrates how to find a target value in a sorted list
+# using the binary search algorithm, which repeatedly narrows the search range.
+
+
 def binary_search(numbers, target):
     left = 0
     right = len(numbers) - 1
@@ -24,5 +29,25 @@ result = binary_search(numbers, target)
 
 if result != -1:
     print(f"{target} found at index {result}")
+else:
+    print(f"{target} not found")
+
+
+# Linear Search Implementation
+# This algorithm checks each element one by one until the target is found.
+
+
+def linear_search(numbers, target):
+    for index in range(len(numbers)):
+        if numbers[index] == target:
+            return index
+
+    return -1
+
+
+linear_result = linear_search(numbers, target)
+
+if linear_result != -1:
+    print(f"{target} found at index {linear_result}")
 else:
     print(f"{target} not found")
