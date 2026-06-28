@@ -34,22 +34,24 @@ This repository contains:
 | Day 04 | Prefix Sum, Running Sum, Range Sum Query | ✅ |
 | Day 05 | Sliding Window (Fixed Size), Maximum Sum Subarray | ✅ |
 | Day 06 | Binary Search, Search Insert Position | ✅ |
-| Day 07 | First & Last Position, Binary Search Variations | ⏳ |
+| Day 07 | First Occurrence, Last Occurrence, Count Occurrence, Binary Search Variations | ✅ |
+| Day 08 | Two Pointer Advanced | ⏳ |
 
 ---
 
-# 🧠 Interview Patterns Learned
+## Interview Patterns Learned
 
 | Pattern | Status |
 |----------|---------|
 | Array Traversal | ✅ |
 | Reverse Traversal | ✅ |
 | Two Pointers | ✅ |
-| Prefix Sum | ✅ |
 | Hashing | ✅ |
-| Sliding Window (Fixed) | ✅ |
+| Prefix Sum | ✅ |
+| Sliding Window (Fixed Size) | ✅ |
 | Binary Search | ✅ |
-| Sliding Window (Variable) | ⏳ |
+| Binary Search Variations | ✅ |
+| Sliding Window (Variable Size) | ⏳ |
 
 ---
 
@@ -57,19 +59,19 @@ This repository contains:
 
 ## Easy
 
-- ✅ 26. Remove Duplicates from Sorted Array
-- ✅ 27. Remove Element
-- ✅ 35. Search Insert Position
-- ✅ 136. Single Number
-- ✅ 217. Contains Duplicate
-- ✅ 643. Maximum Average Subarray I
-- ✅ 704. Binary Search
 - ✅ 1480. Running Sum of 1D Array
 - ✅ 1920. Build Array from Permutation
+- ✅ 26. Remove Duplicates from Sorted Array
+- ✅ 27. Remove Element
+- ✅ 217. Contains Duplicate
+- ✅ 704. Binary Search
+- ✅ 35. Search Insert Position
+- ✅ 278. First Bad Version
+- ✅ 744. Find Smallest Letter Greater Than Target
 
 ## Medium
 
-- None
+- ✅ 34. Find First and Last Position of Element in Sorted Array
 
 ## Hard
 
@@ -109,9 +111,13 @@ DSA-Python-Journey
 
 ---
 
-# 🔥 Current Focus
+## Current Focus
 
 Arrays
+
+Current Pattern: Binary Search Variations ✅
+
+Next Pattern: Advanced Two Pointers
 
 Current Goal:
 
@@ -143,18 +149,19 @@ Day 03 ✅
 Day 04 ✅
 Day 05 ✅
 Day 06 ✅
+Day 07 ✅
 ```
 
 LeetCode Solved:
 
 ```text
-9 Problems
+10 Problems
 ```
 
 Current Streak:
 
 ```text
-6 Days
+7 Days
 ```
 
 ---
