@@ -35,9 +35,12 @@ This repository contains:
 | Day 05 | Sliding Window (Fixed Size), Maximum Sum Subarray | ✅ |
 | Day 06 | Binary Search, Search Insert Position | ✅ |
 | Day 07 | First Occurrence, Last Occurrence, Count Occurrence, Binary Search Variations | ✅ |
-| Day 08 | Two Pointer Advanced | ⏳ |
+| Day 08 | Advanced Two Pointers, Move Zeroes, Merge Sorted Arrays | ✅ |
+| Day 09 | Variable Size Sliding Window | ⏳ |
 
 ---
+
+## Interview Patterns Learned
 
 ## Interview Patterns Learned
 
@@ -45,7 +48,8 @@ This repository contains:
 |----------|---------|
 | Array Traversal | ✅ |
 | Reverse Traversal | ✅ |
-| Two Pointers | ✅ |
+| Two Pointers (Basic) | ✅ |
+| Two Pointers (Advanced) | ✅ |
 | Hashing | ✅ |
 | Prefix Sum | ✅ |
 | Sliding Window (Fixed Size) | ✅ |
@@ -59,15 +63,21 @@ This repository contains:
 
 ## Easy
 
-- ✅ 1480. Running Sum of 1D Array
-- ✅ 1920. Build Array from Permutation
+## Easy
+
 - ✅ 26. Remove Duplicates from Sorted Array
 - ✅ 27. Remove Element
-- ✅ 217. Contains Duplicate
-- ✅ 704. Binary Search
 - ✅ 35. Search Insert Position
+- ✅ 88. Merge Sorted Array
+- ✅ 217. Contains Duplicate
 - ✅ 278. First Bad Version
+- ✅ 283. Move Zeroes
+- ✅ 643. Maximum Average Subarray I
+- ✅ 704. Binary Search
 - ✅ 744. Find Smallest Letter Greater Than Target
+- ✅ 977. Squares of a Sorted Array
+- ✅ 1480. Running Sum of 1D Array
+- ✅ 1920. Build Array from Permutation
 
 ## Medium
 
@@ -117,7 +127,7 @@ Arrays
 
 Current Pattern: Binary Search Variations ✅
 
-Next Pattern: Advanced Two Pointers
+Next Pattern: Sliding Window (Variable Size)
 
 Current Goal:
 
@@ -150,18 +160,19 @@ Day 04 ✅
 Day 05 ✅
 Day 06 ✅
 Day 07 ✅
+Day 08 ✅
 ```
 
 LeetCode Solved:
 
 ```text
-10 Problems
+14 Problems
 ```
 
 Current Streak:
 
 ```text
-7 Days
+8 Days
 ```
 
 ---
