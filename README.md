@@ -36,11 +36,10 @@ This repository contains:
 | Day 06 | Binary Search, Search Insert Position | ✅ |
 | Day 07 | First Occurrence, Last Occurrence, Count Occurrence, Binary Search Variations | ✅ |
 | Day 08 | Advanced Two Pointers, Move Zeroes, Merge Sorted Arrays | ✅ |
-| Day 09 | Variable Size Sliding Window | ⏳ |
+| Day 09 | Variable Size Sliding Window, Longest Subarray | ✅ |
+| Day 10 | Advanced Sliding Window + Strings | ⏳ |
 
 ---
-
-## Interview Patterns Learned
 
 ## Interview Patterns Learned
 
@@ -52,16 +51,14 @@ This repository contains:
 | Two Pointers (Advanced) | ✅ |
 | Hashing | ✅ |
 | Prefix Sum | ✅ |
-| Sliding Window (Fixed Size) | ✅ |
+| Sliding Window (Fixed) | ✅ |
+| Sliding Window (Variable) | ✅ |
 | Binary Search | ✅ |
 | Binary Search Variations | ✅ |
-| Sliding Window (Variable Size) | ⏳ |
 
 ---
 
 # 💻 LeetCode Progress
-
-## Easy
 
 ## Easy
 
@@ -81,7 +78,9 @@ This repository contains:
 
 ## Medium
 
+- ✅ 3. Longest Substring Without Repeating Characters
 - ✅ 34. Find First and Last Position of Element in Sorted Array
+- ✅ 209. Minimum Size Subarray Sum
 
 ## Hard
 
@@ -125,9 +124,9 @@ DSA-Python-Journey
 
 Arrays
 
-Current Pattern: Binary Search Variations ✅
+Current Pattern: Variable Size Sliding Window ✅
 
-Next Pattern: Sliding Window (Variable Size)
+Next Pattern: Advanced Sliding Window on Strings
 
 Current Goal:
 
@@ -163,16 +162,37 @@ Day 07 ✅
 Day 08 ✅
 ```
 
-LeetCode Solved:
+---
 
-```text
-14 Problems
-```
+## 🏆 DSA Milestones
+
+### Arrays Completed
+
+- ✅ Array Traversal
+- ✅ Insert / Delete / Update
+- ✅ Linear Search
+- ✅ Hashing Basics
+- ✅ Prefix Sum
+- ✅ Sliding Window (Fixed Size)
+- ✅ Sliding Window (Variable Size)
+- ✅ Two Pointers
+- ✅ Binary Search
+- ✅ Binary Search Variations
+
+### LeetCode Progress
+
+- 🟢 Easy Solved: 13
+- 🟡 Medium Solved: 3
+- 🔴 Hard Solved: 0
+
+### Total Problems Solved
+
+**16+ Problems**
 
 Current Streak:
 
 ```text
-8 Days
+9 Days
 ```
 
 ---
