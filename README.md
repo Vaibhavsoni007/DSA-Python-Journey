@@ -34,12 +34,15 @@ This repository contains:
 | Day 04 | Prefix Sum, Running Sum, Range Sum Query | ✅ |
 | Day 05 | Sliding Window (Fixed Size), Maximum Sum Subarray | ✅ |
 | Day 06 | Binary Search, Search Insert Position | ✅ |
-| Day 07 | First Occurrence, Last Occurrence, Count Occurrence, Binary Search Variations | ✅ |
+| Day 07 | Binary Search Variations (First/Last Occurrence, Count) | ✅ |
 | Day 08 | Advanced Two Pointers, Move Zeroes, Merge Sorted Arrays | ✅ |
-| Day 09 | Variable Size Sliding Window, Longest Subarray | ✅ |
-| Day 10 | Advanced Sliding Window + Strings | ⏳ |
+| Day 09 | Variable Size Sliding Window | ✅ |
+| Day 10 | Bubble Sort, Selection Sort, Insertion Sort | ✅ |
+| Day 11 | Dutch National Flag Algorithm | ⏳ |
 
 ---
+
+## Interview Patterns Learned
 
 ## Interview Patterns Learned
 
@@ -51,10 +54,11 @@ This repository contains:
 | Two Pointers (Advanced) | ✅ |
 | Hashing | ✅ |
 | Prefix Sum | ✅ |
-| Sliding Window (Fixed) | ✅ |
-| Sliding Window (Variable) | ✅ |
+| Sliding Window (Fixed Size) | ✅ |
+| Sliding Window (Variable Size) | ✅ |
 | Binary Search | ✅ |
 | Binary Search Variations | ✅ |
+| Basic Sorting Algorithms | ✅ |
 
 ---
 
@@ -80,7 +84,9 @@ This repository contains:
 
 - ✅ 3. Longest Substring Without Repeating Characters
 - ✅ 34. Find First and Last Position of Element in Sorted Array
+- ✅ 75. Sort Colors *(Problem Understood)*
 - ✅ 209. Minimum Size Subarray Sum
+- ✅ 912. Sort an Array *(Basic Sorting Implementation)*
 
 ## Hard
 
@@ -122,11 +128,15 @@ DSA-Python-Journey
 
 ## Current Focus
 
+## Current Focus
+
 Arrays
 
-Current Pattern: Variable Size Sliding Window ✅
+Current Topic:
+Basic Sorting Algorithms ✅
 
-Next Pattern: Advanced Sliding Window on Strings
+Next Topic:
+Dutch National Flag Algorithm
 
 Current Goal:
 
@@ -178,21 +188,27 @@ Day 08 ✅
 - ✅ Two Pointers
 - ✅ Binary Search
 - ✅ Binary Search Variations
+- ✅ Basic Sorting Algorithms
 
 ### LeetCode Progress
 
-- 🟢 Easy Solved: 13
-- 🟡 Medium Solved: 3
+- 🟢 Easy Solved: 13+
+- 🟡 Medium Solved: 5+
 - 🔴 Hard Solved: 0
 
-### Total Problems Solved
+### GitHub Progress
 
-**16+ Problems**
+- ✅ 10 Days Completed
+- ✅ Daily Notes
+- ✅ Daily Practice
+- ✅ Interview Questions
+- ✅ LeetCode Solutions
+- ✅ Organized Repository Structure
 
 Current Streak:
 
 ```text
-9 Days
+10 Days
 ```
 
 ---
