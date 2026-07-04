@@ -2,7 +2,7 @@
 
 Welcome to my Data Structures and Algorithms journey using Python.
 
-This repository contains:
+This repository contains: 
 - Daily DSA practice
 - LeetCode solutions
 - Notes for every topic
