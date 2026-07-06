@@ -38,11 +38,10 @@ This repository contains:
 | Day 08 | Advanced Two Pointers, Move Zeroes, Merge Sorted Arrays | ✅ |
 | Day 09 | Variable Size Sliding Window | ✅ |
 | Day 10 | Bubble Sort, Selection Sort, Insertion Sort | ✅ |
-| Day 11 | Dutch National Flag Algorithm | ⏳ |
+| Day 11 | Dutch National Flag Algorithm (Three Pointers) | ✅ |
+| Day 12 | Kadane's Algorithm | ⏳ |
 
 ---
-
-## Interview Patterns Learned
 
 ## Interview Patterns Learned
 
@@ -59,6 +58,7 @@ This repository contains:
 | Binary Search | ✅ |
 | Binary Search Variations | ✅ |
 | Basic Sorting Algorithms | ✅ |
+| Dutch National Flag Algorithm | ✅ |
 
 ---
 
@@ -76,6 +76,7 @@ This repository contains:
 - ✅ 643. Maximum Average Subarray I
 - ✅ 704. Binary Search
 - ✅ 744. Find Smallest Letter Greater Than Target
+- ✅ 905. Sort Array By Parity
 - ✅ 977. Squares of a Sorted Array
 - ✅ 1480. Running Sum of 1D Array
 - ✅ 1920. Build Array from Permutation
@@ -84,7 +85,7 @@ This repository contains:
 
 - ✅ 3. Longest Substring Without Repeating Characters
 - ✅ 34. Find First and Last Position of Element in Sorted Array
-- ✅ 75. Sort Colors *(Problem Understood)*
+- ✅ 75. Sort Colors
 - ✅ 209. Minimum Size Subarray Sum
 - ✅ 912. Sort an Array *(Basic Sorting Implementation)*
 
@@ -128,15 +129,13 @@ DSA-Python-Journey
 
 ## Current Focus
 
-## Current Focus
-
 Arrays
 
 Current Topic:
-Basic Sorting Algorithms ✅
+Dutch National Flag Algorithm ✅
 
 Next Topic:
-Dutch National Flag Algorithm
+Kadane's Algorithm (Maximum Subarray)rithm
 
 Current Goal:
 
@@ -170,7 +169,24 @@ Day 05 ✅
 Day 06 ✅
 Day 07 ✅
 Day 08 ✅
+Day 09 ✅
+Day 10 ✅
+Day 11 ✅
 ```
+
+---
+
+## 🧠 Algorithms Mastered
+
+- ✅ Prefix Sum
+- ✅ Fixed Sliding Window
+- ✅ Variable Sliding Window
+- ✅ Binary Search
+- ✅ First & Last Occurrence
+- ✅ Bubble Sort
+- ✅ Selection Sort
+- ✅ Insertion Sort
+- ✅ Dutch National Flag Algorithm
 
 ---
 
@@ -186,19 +202,21 @@ Day 08 ✅
 - ✅ Sliding Window (Fixed Size)
 - ✅ Sliding Window (Variable Size)
 - ✅ Two Pointers
+- ✅ Three Pointers
 - ✅ Binary Search
 - ✅ Binary Search Variations
 - ✅ Basic Sorting Algorithms
+- ✅ Dutch National Flag Algorithm
 
 ### LeetCode Progress
 
-- 🟢 Easy Solved: 13+
+- 🟢 Easy Solved: 14+
 - 🟡 Medium Solved: 5+
 - 🔴 Hard Solved: 0
 
 ### GitHub Progress
 
-- ✅ 10 Days Completed
+- ✅ 11 Days Completed
 - ✅ Daily Notes
 - ✅ Daily Practice
 - ✅ Interview Questions
@@ -208,7 +226,7 @@ Day 08 ✅
 Current Streak:
 
 ```text
-10 Days
+11 Days
 ```
 
 ---
