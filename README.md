@@ -39,7 +39,8 @@ This repository contains:
 | Day 09 | Variable Size Sliding Window | ✅ |
 | Day 10 | Bubble Sort, Selection Sort, Insertion Sort | ✅ |
 | Day 11 | Dutch National Flag Algorithm (Three Pointers) | ✅ |
-| Day 12 | Kadane's Algorithm | ⏳ |
+| Day 12 | Kadane's Algorithm (Maximum Subarray) | ✅ |
+| Day 13 | Moore's Voting Algorithm | ⏳ |
 
 ---
 
@@ -59,6 +60,7 @@ This repository contains:
 | Binary Search Variations | ✅ |
 | Basic Sorting Algorithms | ✅ |
 | Dutch National Flag Algorithm | ✅ |
+| Kadane's Algorithm | ✅ |
 
 ---
 
@@ -85,6 +87,7 @@ This repository contains:
 
 - ✅ 3. Longest Substring Without Repeating Characters
 - ✅ 34. Find First and Last Position of Element in Sorted Array
+- ✅ 53. Maximum Subarray
 - ✅ 75. Sort Colors
 - ✅ 209. Minimum Size Subarray Sum
 - ✅ 912. Sort an Array *(Basic Sorting Implementation)*
@@ -132,10 +135,10 @@ DSA-Python-Journey
 Arrays
 
 Current Topic:
-Dutch National Flag Algorithm ✅
+Kadane's Algorithm ✅
 
 Next Topic:
-Kadane's Algorithm (Maximum Subarray)rithm
+Moore's Voting Algorithm (Majority Element)
 
 Current Goal:
 
@@ -176,17 +179,18 @@ Day 11 ✅
 
 ---
 
-## 🧠 Algorithms Mastered
+## 🧠 Core Algorithms Mastered
 
 - ✅ Prefix Sum
 - ✅ Fixed Sliding Window
 - ✅ Variable Sliding Window
 - ✅ Binary Search
-- ✅ First & Last Occurrence
+- ✅ Binary Search Variations
 - ✅ Bubble Sort
 - ✅ Selection Sort
 - ✅ Insertion Sort
 - ✅ Dutch National Flag Algorithm
+- ✅ Kadane's Algorithm
 
 ---
 
@@ -207,16 +211,17 @@ Day 11 ✅
 - ✅ Binary Search Variations
 - ✅ Basic Sorting Algorithms
 - ✅ Dutch National Flag Algorithm
+- ✅ Kadane's Algorithm
 
 ### LeetCode Progress
 
 - 🟢 Easy Solved: 14+
-- 🟡 Medium Solved: 5+
+- 🟡 Medium Solved: 6+
 - 🔴 Hard Solved: 0
 
 ### GitHub Progress
 
-- ✅ 11 Days Completed
+- ✅ 12 Days Completed
 - ✅ Daily Notes
 - ✅ Daily Practice
 - ✅ Interview Questions
