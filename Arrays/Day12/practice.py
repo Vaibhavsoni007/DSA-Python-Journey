@@ -1,4 +1,4 @@
-from maximum_subarray import kadanes_algo
+from maximum_subarray import kadanes_algo 
 
 # Example 1
 arr = [1, 2, 3, -2, 5]
