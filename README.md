@@ -40,7 +40,8 @@ This repository contains:
 | Day 10 | Bubble Sort, Selection Sort, Insertion Sort | ✅ |
 | Day 11 | Dutch National Flag Algorithm (Three Pointers) | ✅ |
 | Day 12 | Kadane's Algorithm (Maximum Subarray) | ✅ |
-| Day 13 | Moore's Voting Algorithm | ⏳ |
+| Day 13 | Moore's Voting Algorithm (Majority Element) | ✅ |
+| Day 14 | Array Rotation (Reversal Algorithm) | ⏳ |
 
 ---
 
@@ -52,6 +53,7 @@ This repository contains:
 | Reverse Traversal | ✅ |
 | Two Pointers (Basic) | ✅ |
 | Two Pointers (Advanced) | ✅ |
+| Three Pointers | ✅ |
 | Hashing | ✅ |
 | Prefix Sum | ✅ |
 | Sliding Window (Fixed Size) | ✅ |
@@ -61,6 +63,7 @@ This repository contains:
 | Basic Sorting Algorithms | ✅ |
 | Dutch National Flag Algorithm | ✅ |
 | Kadane's Algorithm | ✅ |
+| Moore's Voting Algorithm | ✅ |
 
 ---
 
@@ -72,6 +75,7 @@ This repository contains:
 - ✅ 27. Remove Element
 - ✅ 35. Search Insert Position
 - ✅ 88. Merge Sorted Array
+- ✅ 169. Majority Element
 - ✅ 217. Contains Duplicate
 - ✅ 278. First Bad Version
 - ✅ 283. Move Zeroes
@@ -90,7 +94,8 @@ This repository contains:
 - ✅ 53. Maximum Subarray
 - ✅ 75. Sort Colors
 - ✅ 209. Minimum Size Subarray Sum
-- ✅ 912. Sort an Array *(Basic Sorting Implementation)*
+- 🟡 229. Majority Element II *(Problem Read)*
+- 🟡 912. Sort an Array *(Basic Sorting Implementation)*
 
 ## Hard
 
@@ -135,10 +140,10 @@ DSA-Python-Journey
 Arrays
 
 Current Topic:
-Kadane's Algorithm ✅
+Moore's Voting Algorithm ✅
 
 Next Topic:
-Moore's Voting Algorithm (Majority Element)
+Array Rotation (Reversal Algorithm)
 
 Current Goal:
 
@@ -191,6 +196,7 @@ Day 11 ✅
 - ✅ Insertion Sort
 - ✅ Dutch National Flag Algorithm
 - ✅ Kadane's Algorithm
+- ✅ Moore's Voting Algorithm1
 
 ---
 
@@ -212,16 +218,17 @@ Day 11 ✅
 - ✅ Basic Sorting Algorithms
 - ✅ Dutch National Flag Algorithm
 - ✅ Kadane's Algorithm
+- ✅ Moore's Voting Algorithm
 
 ### LeetCode Progress
 
-- 🟢 Easy Solved: 14+
+- 🟢 Easy Solved: 15+
 - 🟡 Medium Solved: 6+
 - 🔴 Hard Solved: 0
 
 ### GitHub Progress
 
-- ✅ 12 Days Completed
+- ✅ 13 Days Completed
 - ✅ Daily Notes
 - ✅ Daily Practice
 - ✅ Interview Questions
