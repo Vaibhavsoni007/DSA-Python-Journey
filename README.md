@@ -41,7 +41,8 @@ This repository contains:
 | Day 11 | Dutch National Flag Algorithm (Three Pointers) | ✅ |
 | Day 12 | Kadane's Algorithm (Maximum Subarray) | ✅ |
 | Day 13 | Moore's Voting Algorithm (Majority Element) | ✅ |
-| Day 14 | Array Rotation (Reversal Algorithm) | ⏳ |
+| Day 14 | Array Rotation (Reversal Algorithm) | ✅ |
+| Day 15 | Product of Array Except Self | ⏳ |
 
 ---
 
@@ -64,6 +65,7 @@ This repository contains:
 | Dutch National Flag Algorithm | ✅ |
 | Kadane's Algorithm | ✅ |
 | Moore's Voting Algorithm | ✅ |
+| Array Rotation (Reversal Algorithm) | ✅ |
 
 ---
 
@@ -74,7 +76,6 @@ This repository contains:
 - ✅ 26. Remove Duplicates from Sorted Array
 - ✅ 27. Remove Element
 - ✅ 35. Search Insert Position
-- ✅ 88. Merge Sorted Array
 - ✅ 169. Majority Element
 - ✅ 217. Contains Duplicate
 - ✅ 278. First Bad Version
@@ -85,6 +86,7 @@ This repository contains:
 - ✅ 905. Sort Array By Parity
 - ✅ 977. Squares of a Sorted Array
 - ✅ 1480. Running Sum of 1D Array
+- ✅ 1752. Check if Array Is Sorted and Rotated *(Bonus)*
 - ✅ 1920. Build Array from Permutation
 
 ## Medium
@@ -93,9 +95,10 @@ This repository contains:
 - ✅ 34. Find First and Last Position of Element in Sorted Array
 - ✅ 53. Maximum Subarray
 - ✅ 75. Sort Colors
+- ✅ 88. Merge Sorted Array
+- ✅ 189. Rotate Array
 - ✅ 209. Minimum Size Subarray Sum
 - 🟡 229. Majority Element II *(Problem Read)*
-- 🟡 912. Sort an Array *(Basic Sorting Implementation)*
 
 ## Hard
 
@@ -140,10 +143,10 @@ DSA-Python-Journey
 Arrays
 
 Current Topic:
-Moore's Voting Algorithm ✅
+Array Rotation (Reversal Algorithm) ✅
 
 Next Topic:
-Array Rotation (Reversal Algorithm)
+Product of Array Except Self
 
 Current Goal:
 
@@ -196,7 +199,8 @@ Day 11 ✅
 - ✅ Insertion Sort
 - ✅ Dutch National Flag Algorithm
 - ✅ Kadane's Algorithm
-- ✅ Moore's Voting Algorithm1
+- ✅ Moore's Voting Algorithm
+- ✅ Array Rotation (Reversal Algorithm)
 
 ---
 
@@ -219,16 +223,17 @@ Day 11 ✅
 - ✅ Dutch National Flag Algorithm
 - ✅ Kadane's Algorithm
 - ✅ Moore's Voting Algorithm
+- ✅ Array Rotation (Reversal Algorithm)
 
 ### LeetCode Progress
 
 - 🟢 Easy Solved: 15+
-- 🟡 Medium Solved: 6+
+- 🟡 Medium Solved: 7+
 - 🔴 Hard Solved: 0
 
 ### GitHub Progress
 
-- ✅ 13 Days Completed
+- ✅ 14 Days Completed
 - ✅ Daily Notes
 - ✅ Daily Practice
 - ✅ Interview Questions
