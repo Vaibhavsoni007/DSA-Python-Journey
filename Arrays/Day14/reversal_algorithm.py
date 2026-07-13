@@ -19,11 +19,6 @@ if __name__ == "__main__":
     # -------------------------------
     # Example Usage
     # -------------------------------
-    arr1 = [1,2,3,4,5,6,7]
-    print("Brute Force Left Rotation by 3:", left_rotate_bruteforce(arr1.copy(), 3))
-
-    arr2 = [1,2,3,4,5,6,7]
-    print("Extra Array Left Rotation by 3:", left_rotate_extra(arr2.copy(), 3))
-
+    
     arr3 = [1,2,3,4,5,6,7]
     print("Reversal Algorithm Left Rotation by 3:", left_rotate_reversal(arr3.copy(), 3))
