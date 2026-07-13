@@ -42,7 +42,8 @@ This repository contains:
 | Day 12 | Kadane's Algorithm (Maximum Subarray) | ✅ |
 | Day 13 | Moore's Voting Algorithm (Majority Element) | ✅ |
 | Day 14 | Array Rotation (Reversal Algorithm) | ✅ |
-| Day 15 | Product of Array Except Self | ⏳ |
+| Day 15 | Product of Array Except Self (Prefix & Suffix Product) | ✅ |
+| Day 16 | Trapping Rain Water | ⏳ |
 
 ---
 
@@ -57,6 +58,8 @@ This repository contains:
 | Three Pointers | ✅ |
 | Hashing | ✅ |
 | Prefix Sum | ✅ |
+| Prefix Product | ✅ |
+| Suffix Product | ✅ |
 | Sliding Window (Fixed Size) | ✅ |
 | Sliding Window (Variable Size) | ✅ |
 | Binary Search | ✅ |
@@ -98,6 +101,7 @@ This repository contains:
 - ✅ 88. Merge Sorted Array
 - ✅ 189. Rotate Array
 - ✅ 209. Minimum Size Subarray Sum
+- ✅ 238. Product of Array Except Self
 - 🟡 229. Majority Element II *(Problem Read)*
 
 ## Hard
@@ -143,10 +147,10 @@ DSA-Python-Journey
 Arrays
 
 Current Topic:
-Array Rotation (Reversal Algorithm) ✅
+Product of Array Except Self ✅
 
 Next Topic:
-Product of Array Except Self
+Trapping Rain Water
 
 Current Goal:
 
@@ -190,6 +194,8 @@ Day 11 ✅
 ## 🧠 Core Algorithms Mastered
 
 - ✅ Prefix Sum
+- ✅ Prefix Product
+- ✅ Suffix Product
 - ✅ Fixed Sliding Window
 - ✅ Variable Sliding Window
 - ✅ Binary Search
@@ -201,6 +207,7 @@ Day 11 ✅
 - ✅ Kadane's Algorithm
 - ✅ Moore's Voting Algorithm
 - ✅ Array Rotation (Reversal Algorithm)
+- ✅ Product of Array Except Self
 
 ---
 
@@ -213,6 +220,8 @@ Day 11 ✅
 - ✅ Linear Search
 - ✅ Hashing Basics
 - ✅ Prefix Sum
+- ✅ Prefix Product
+- ✅ Suffix Product
 - ✅ Sliding Window (Fixed Size)
 - ✅ Sliding Window (Variable Size)
 - ✅ Two Pointers
@@ -224,16 +233,17 @@ Day 11 ✅
 - ✅ Kadane's Algorithm
 - ✅ Moore's Voting Algorithm
 - ✅ Array Rotation (Reversal Algorithm)
+- ✅ Product of Array Except Self
 
 ### LeetCode Progress
 
 - 🟢 Easy Solved: 15+
-- 🟡 Medium Solved: 7+
+- 🟡 Medium Solved: 8+
 - 🔴 Hard Solved: 0
 
 ### GitHub Progress
 
-- ✅ 14 Days Completed
+- ✅ 15 Days Completed
 - ✅ Daily Notes
 - ✅ Daily Practice
 - ✅ Interview Questions
