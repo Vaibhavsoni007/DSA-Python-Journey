@@ -43,7 +43,8 @@ This repository contains:
 | Day 13 | Moore's Voting Algorithm (Majority Element) | ✅ |
 | Day 14 | Array Rotation (Reversal Algorithm) | ✅ |
 | Day 15 | Product of Array Except Self (Prefix & Suffix Product) | ✅ |
-| Day 16 | Trapping Rain Water | ⏳ |
+| Day 16 | Trapping Rain Water (Prefix Max + Two Pointers) | ✅ |
+| Day 17 | Container With Most Water | ⏳ |
 
 ---
 
@@ -69,6 +70,12 @@ This repository contains:
 | Kadane's Algorithm | ✅ |
 | Moore's Voting Algorithm | ✅ |
 | Array Rotation (Reversal Algorithm) | ✅ |
+| Prefix Maximum | ✅ |
+| Suffix Maximum | ✅ |
+| Prefix Product | ✅ |
+| Suffix Product | ✅ |
+| Two Pointer Optimization | ✅ |
+| Rain Water Trapping | ✅ |
 
 ---
 
@@ -103,10 +110,11 @@ This repository contains:
 - ✅ 209. Minimum Size Subarray Sum
 - ✅ 238. Product of Array Except Self
 - 🟡 229. Majority Element II *(Problem Read)*
+- 🟡 11. Container With Most Water *(Problem Read)*
 
 ## Hard
 
-- None
+- ✅ 42. Trapping Rain Water
 
 ---
 
@@ -147,10 +155,10 @@ DSA-Python-Journey
 Arrays
 
 Current Topic:
-Product of Array Except Self ✅
+Trapping Rain Water ✅
 
 Next Topic:
-Trapping Rain Water
+Container With Most Water
 
 Current Goal:
 
@@ -212,6 +220,10 @@ Day 15 ✅
 - ✅ Moore's Voting Algorithm
 - ✅ Array Rotation (Reversal Algorithm)
 - ✅ Product of Array Except Self
+- ✅ Prefix Maximum Array
+- ✅ Suffix Maximum Array
+- ✅ Two Pointer Optimization
+- ✅ Trapping Rain Water Algorithm
 
 ---
 
@@ -238,6 +250,10 @@ Day 15 ✅
 - ✅ Moore's Voting Algorithm
 - ✅ Array Rotation (Reversal Algorithm)
 - ✅ Product of Array Except Self
+- ✅ Prefix Maximum
+- ✅ Suffix Maximum
+- ✅ Trapping Rain Water
+- ✅ Two Pointer Optimization
 
 ### LeetCode Progress
 
