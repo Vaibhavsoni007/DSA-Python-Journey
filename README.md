@@ -45,7 +45,8 @@ This repository contains:
 | Day 15 | Product of Array Except Self (Prefix & Suffix Product) | ✅ |
 | Day 16 | Trapping Rain Water (Prefix Max + Two Pointers) | ✅ |
 | Day 17 | Container With Most Water | ✅ |
-| Day 18 | Next Greater Element (Monotonic Stack) | ⏳ |
+| Day 18 | Spiral Matrix (Four Boundary Technique) | ✅ |
+| Day 19 | Pascal's Triangle | ⏳ |
 
 ---
 
@@ -79,6 +80,9 @@ This repository contains:
 | Rain Water Trapping | ✅ |
 | Two Pointer (Area Maximization) | ✅ |
 | Container With Most Water | ✅ |
+| Matrix Traversal | ✅ |
+| Four Boundary Technique | ✅ |
+| Simulation | ✅ |
 
 ---
 
@@ -113,6 +117,8 @@ This repository contains:
 - ✅ 209. Minimum Size Subarray Sum
 - ✅ 238. Product of Array Except Self
 - ✅ 11. Container With Most Water
+- ✅ 54. Spiral Matrix
+- 🟡 59. Spiral Matrix II *(Problem Read)*
 - 🟡 229. Majority Element II *(Problem Read)*
 - 🟡 167. Two Sum II – Input Array Is Sorted *(Problem Read / Attempted)*
 
@@ -203,6 +209,9 @@ Day 12 ✅
 Day 13 ✅
 Day 14 ✅
 Day 15 ✅
+Day 16 ✅
+Day 17 ✅
+Day 18 ✅
 ```
 
 ---
@@ -282,7 +291,7 @@ Day 15 ✅
 Current Streak:
 
 ```text
-15 Days
+18 Days
 ```
 
 ---
