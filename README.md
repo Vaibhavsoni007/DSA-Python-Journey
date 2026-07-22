@@ -44,7 +44,8 @@ This repository contains:
 | Day 14 | Array Rotation (Reversal Algorithm) | ✅ |
 | Day 15 | Product of Array Except Self (Prefix & Suffix Product) | ✅ |
 | Day 16 | Trapping Rain Water (Prefix Max + Two Pointers) | ✅ |
-| Day 17 | Container With Most Water | ⏳ |
+| Day 17 | Container With Most Water | ✅ |
+| Day 18 | Next Greater Element (Monotonic Stack) | ⏳ |
 
 ---
 
@@ -76,6 +77,8 @@ This repository contains:
 | Suffix Product | ✅ |
 | Two Pointer Optimization | ✅ |
 | Rain Water Trapping | ✅ |
+| Two Pointer (Area Maximization) | ✅ |
+| Container With Most Water | ✅ |
 
 ---
 
@@ -109,8 +112,9 @@ This repository contains:
 - ✅ 189. Rotate Array
 - ✅ 209. Minimum Size Subarray Sum
 - ✅ 238. Product of Array Except Self
+- ✅ 11. Container With Most Water
 - 🟡 229. Majority Element II *(Problem Read)*
-- 🟡 11. Container With Most Water *(Problem Read)*
+- 🟡 167. Two Sum II – Input Array Is Sorted *(Problem Read / Attempted)*
 
 ## Hard
 
@@ -155,10 +159,10 @@ DSA-Python-Journey
 Arrays
 
 Current Topic:
-Trapping Rain Water ✅
+Container With Most Water ✅
 
 Next Topic:
-Container With Most Water
+Next Greater Element (Monotonic Stack)
 
 Current Goal:
 
@@ -224,6 +228,9 @@ Day 15 ✅
 - ✅ Suffix Maximum Array
 - ✅ Two Pointer Optimization
 - ✅ Trapping Rain Water Algorithm
+- ✅ Two Pointer Technique
+- ✅ Two Pointer Area Maximization
+- ✅ Container With Most Water Algorithm
 
 ---
 
@@ -254,6 +261,8 @@ Day 15 ✅
 - ✅ Suffix Maximum
 - ✅ Trapping Rain Water
 - ✅ Two Pointer Optimization
+- ✅ Container With Most Water
+- ✅ Two Pointer Area Maximization
 
 ### LeetCode Progress
 
